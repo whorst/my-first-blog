@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1ac4f8e-1448-4020-a68b-6a75d4021ce5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mysite/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mysite/urls.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/settings.py" afterPath="$PROJECT_DIR$/mysite/settings.py" />
-    </list>
+    <list default="true" id="c1ac4f8e-1448-4020-a68b-6a75d4021ce5" name="Default" comment="" />
     <ignored path="djangogirls.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
